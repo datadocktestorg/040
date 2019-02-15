@@ -1,0 +1,2 @@
+﻿<http://datadock.io/datadocktestorg/040/id/resource/bristolMonumentscsv/row_3100> <http://datadock.io/datadocktestorg/040/id/definition/location_1> "(51.455214, -2.5933379)"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/040/id/dataset/bristolMonumentscsv>.
+<http://datadock.io/datadocktestorg/040/id/resource/bristolMonumentscsv/row_752> <http://datadock.io/datadocktestorg/040/id/definition/monument_record_no> "691M"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/040/id/dataset/bristolMonumentscsv>.

@@ -1,0 +1,2 @@
+﻿<http://datadock.io/datadocktestorg/040/id/resource/bristolMonumentscsv/row_2059> <http://datadock.io/datadocktestorg/040/id/definition/monument_record_no> "819M"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/040/id/dataset/bristolMonumentscsv>.
+<http://datadock.io/datadocktestorg/040/id/resource/bristolMonumentscsv/row_818> <http://datadock.io/datadocktestorg/040/id/definition/northing> "173298"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/040/id/dataset/bristolMonumentscsv>.

@@ -1,5 +1,4 @@
-﻿<http://datadock.io/datadocktestorg/040/id/dataset/publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Test Org" <http://datadock.io/datadocktestorg/040/metadata>.
-<http://datadock.io/datadocktestorg/040/id/definition/abbr> <http://www.w3.org/2000/01/rdf-schema#label> "ABBR"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/040/definitions>.
+﻿<http://datadock.io/datadocktestorg/040/id/definition/abbr> <http://www.w3.org/2000/01/rdf-schema#label> "ABBR"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/040/definitions>.
 <http://datadock.io/datadocktestorg/040/id/definition/amended> <http://www.w3.org/2000/01/rdf-schema#label> "AMENDED"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/040/definitions>.
 <http://datadock.io/datadocktestorg/040/id/definition/archive_url> <http://www.w3.org/2000/01/rdf-schema#label> "ARCHIVE URL"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/040/definitions>.
 <http://datadock.io/datadocktestorg/040/id/definition/bays> <http://www.w3.org/2000/01/rdf-schema#label> "BAYS"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/040/definitions>.
@@ -16,6 +15,7 @@
 <http://datadock.io/datadocktestorg/040/id/definition/known_as> <http://www.w3.org/2000/01/rdf-schema#label> "KNOWN_AS"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/040/definitions>.
 <http://datadock.io/datadocktestorg/040/id/definition/listed_building_grade> <http://www.w3.org/2000/01/rdf-schema#label> "LISTED_BUILDING_GRADE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/040/definitions>.
 <http://datadock.io/datadocktestorg/040/id/definition/listed_building_no> <http://www.w3.org/2000/01/rdf-schema#label> "LISTED_BUILDING_NO"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/040/definitions>.
+<http://datadock.io/datadocktestorg/040/id/definition/location_1> <http://www.w3.org/2000/01/rdf-schema#label> "Location 1"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/040/definitions>.
 <http://datadock.io/datadocktestorg/040/id/definition/monument_desc> <http://www.w3.org/2000/01/rdf-schema#label> "MONUMENT_DESC"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/040/definitions>.
 <http://datadock.io/datadocktestorg/040/id/definition/monument_record_no> <http://www.w3.org/2000/01/rdf-schema#label> "MONUMENT_RECORD_NO"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/040/definitions>.
 <http://datadock.io/datadocktestorg/040/id/definition/monument_type> <http://www.w3.org/2000/01/rdf-schema#label> "MONUMENT_TYPE"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/040/definitions>.
