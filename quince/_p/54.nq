@@ -1,0 +1,5 @@
+﻿<http://datadock.io/datadocktestorg/040/id/dataset/bristolMonumentsSubset> <http://www.w3.org/ns/dcat#keyword> "bristol"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/040/id/dataset/bristolMonumentsSubset/metadata>.
+<http://datadock.io/datadocktestorg/040/id/dataset/mediumCsv> <http://www.w3.org/ns/dcat#keyword> "dummy"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/040/id/dataset/mediumCsv/metadata>.
+<http://datadock.io/datadocktestorg/040/id/dataset/mediumCsv> <http://www.w3.org/ns/dcat#keyword> "test"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/040/id/dataset/mediumCsv/metadata>.
+<http://datadock.io/datadocktestorg/040/id/dataset/tinyTestCsv> <http://www.w3.org/ns/dcat#keyword> "dummy"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/040/id/dataset/tinyTestCsv/metadata>.
+<http://datadock.io/datadocktestorg/040/id/dataset/tinyTestCsv> <http://www.w3.org/ns/dcat#keyword> "test"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/040/id/dataset/tinyTestCsv/metadata>.

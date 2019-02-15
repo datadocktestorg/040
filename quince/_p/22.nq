@@ -1,0 +1,5 @@
+﻿<http://datadock.io/datadocktestorg/040/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/datadocktestorg/040/metadata>.
+<http://datadock.io/datadocktestorg/040/id/dataset/bristolMonumentsSubset> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/datadocktestorg/040/id/dataset/bristolMonumentsSubset/metadata>.
+<http://datadock.io/datadocktestorg/040/id/dataset/mediumCsv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/datadocktestorg/040/id/dataset/mediumCsv/metadata>.
+<http://datadock.io/datadocktestorg/040/id/dataset/publisher> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Organization> <http://datadock.io/datadocktestorg/040/metadata>.
+<http://datadock.io/datadocktestorg/040/id/dataset/tinyTestCsv> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://rdfs.org/ns/void#Dataset> <http://datadock.io/datadocktestorg/040/id/dataset/tinyTestCsv/metadata>.

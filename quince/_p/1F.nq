@@ -1,0 +1,4 @@
+﻿<http://datadock.io/datadocktestorg/040/> <http://purl.org/dc/terms/publisher> <http://datadock.io/datadocktestorg/040/id/dataset/publisher> <http://datadock.io/datadocktestorg/040/metadata>.
+<http://datadock.io/datadocktestorg/040/id/dataset/bristolMonumentsSubset> <http://purl.org/dc/terms/publisher> <http://datadock.io/datadocktestorg/040/id/dataset/publisher> <http://datadock.io/datadocktestorg/040/id/dataset/bristolMonumentsSubset/metadata>.
+<http://datadock.io/datadocktestorg/040/id/dataset/mediumCsv> <http://purl.org/dc/terms/publisher> <http://datadock.io/datadocktestorg/040/id/dataset/publisher> <http://datadock.io/datadocktestorg/040/id/dataset/mediumCsv/metadata>.
+<http://datadock.io/datadocktestorg/040/id/dataset/tinyTestCsv> <http://purl.org/dc/terms/publisher> <http://datadock.io/datadocktestorg/040/id/dataset/publisher> <http://datadock.io/datadocktestorg/040/id/dataset/tinyTestCsv/metadata>.
