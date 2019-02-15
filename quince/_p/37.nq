@@ -1,3 +1,4 @@
-﻿<http://datadock.io/datadocktestorg/040/id/dataset/bristolMonumentsSubset> <http://rdfs.org/ns/void#triples> "62"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/datadocktestorg/040/id/dataset/bristolMonumentsSubset/metadata>.
+﻿<http://datadock.io/datadocktestorg/040/id/dataset/aaaa1111csv> <http://rdfs.org/ns/void#triples> "9"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/datadocktestorg/040/id/dataset/aaaa1111csv/metadata>.
+<http://datadock.io/datadocktestorg/040/id/dataset/bristolMonumentsSubset> <http://rdfs.org/ns/void#triples> "62"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/datadocktestorg/040/id/dataset/bristolMonumentsSubset/metadata>.
 <http://datadock.io/datadocktestorg/040/id/dataset/mediumCsv> <http://rdfs.org/ns/void#triples> "7136"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/datadocktestorg/040/id/dataset/mediumCsv/metadata>.
 <http://datadock.io/datadocktestorg/040/id/dataset/tinyTestCsv> <http://rdfs.org/ns/void#triples> "9"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/datadocktestorg/040/id/dataset/tinyTestCsv/metadata>.
