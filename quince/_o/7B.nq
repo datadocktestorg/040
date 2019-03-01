@@ -1,4 +1,5 @@
-﻿<http://datadock.io/datadocktestorg/040/id/dataset/aaaa1111csv> <http://www.w3.org/ns/dcat#keyword> "dummy"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/040/id/dataset/aaaa1111csv/metadata>.
+﻿<http://datadock.io/datadocktestorg/040/> <http://rdfs.org/ns/void#subset> <http://datadock.io/datadocktestorg/040/id/dataset/acsvcsv> <http://datadock.io/datadocktestorg/040/metadata>.
+<http://datadock.io/datadocktestorg/040/id/dataset/aaaa1111csv> <http://www.w3.org/ns/dcat#keyword> "dummy"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/040/id/dataset/aaaa1111csv/metadata>.
 <http://datadock.io/datadocktestorg/040/id/dataset/bristolMonumentscsv> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/datadocktestorg/040/id/resource/bristolMonumentscsv/row_2> <http://datadock.io/datadocktestorg/040/id/dataset/bristolMonumentscsv/metadata>.
 <http://datadock.io/datadocktestorg/040/id/dataset/mediumCsv> <http://www.w3.org/ns/dcat#keyword> "dummy"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/040/id/dataset/mediumCsv/metadata>.
 <http://datadock.io/datadocktestorg/040/id/dataset/tinyTestCsv> <http://www.w3.org/ns/dcat#keyword> "dummy"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/datadocktestorg/040/id/dataset/tinyTestCsv/metadata>.
